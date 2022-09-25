@@ -1,0 +1,6 @@
+yfinance
+streamlit
+pandas
+csv
+requests
+xml.etree.ElementTree
